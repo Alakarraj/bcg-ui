@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["style.scss"],"sourcesContent":["body {\r\n  background-color: blue;\r\n  h1 {\r\n    font-size: 30px;\r\n    color: aquamarine;\r\n  }\r\n}\r\n"],"names":[],"mappings":"AAAA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAAE,IAAI,GAKvB;EAND,AAEE,IAFE,CAEF,EAAE,CAAC;IACD,SAAS,EAAE,IAAI;IACf,KAAK,EAAE,UAAU,GAClB"}
